@@ -1,0 +1,149 @@
+
+ERROR, 2024-04-09 20:45:38 custom_logger log 78 - 'CustomLogger' object has no attribute 'exception'
+ERROR, 2024-04-09 20:45:38 custom_logger log 78 - 'CustomLogger' object has no attribute 'exception'
+ERROR, 2024-04-09 20:46:07 custom_logger log 78 - 'CustomLogger' object has no attribute 'exception'
+ERROR, 2024-04-09 20:46:07 custom_logger log 78 - 'CustomLogger' object has no attribute 'exception'
+ERROR, 2024-04-09 20:46:09 custom_logger log 78 - 'CustomLogger' object has no attribute 'exception'
+ERROR, 2024-04-09 20:46:09 custom_logger log 78 - 'CustomLogger' object has no attribute 'exception'
+ERROR, 2024-04-09 20:47:04 custom_logger log 78 - 500: Error connecting to the database
+ERROR, 2024-04-09 20:47:04 custom_logger log 78 - 500: Error connecting to the database
+ERROR, 2024-04-09 20:48:27 custom_logger log 78 - 500: Error connecting to the database
+ERROR, 2024-04-09 20:48:27 custom_logger log 78 - 500: Error connecting to the database
+ERROR, 2024-04-09 20:49:48 custom_logger log 78 - 'CustomLogger' object has no attribute 'error'
+ERROR, 2024-04-09 20:49:48 custom_logger log 78 - 'CustomLogger' object has no attribute 'error'
+ERROR, 2024-04-09 20:54:07 custom_logger log 78 - 500: Error connecting to the database
+ERROR, 2024-04-09 20:54:07 custom_logger log 78 - 500: Error connecting to the database
+ERROR, 2024-04-09 21:30:35 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:30:35 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:31:43 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:31:43 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:31:59 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:31:59 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:33:23 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:33:23 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:34:23 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:34:23 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:34:26 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:34:26 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:34:34 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:34:34 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:35:46 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:35:46 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:37:32 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:37:32 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:40:40 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:40:40 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:43:13 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:43:13 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 21:44:48 custom_logger log 78 - 500: An unexpected error occurred
+ERROR, 2024-04-09 21:44:48 custom_logger log 78 - 500: An unexpected error occurred
+ERROR, 2024-04-09 21:45:43 custom_logger log 78 - 500: An unexpected error occurred
+ERROR, 2024-04-09 21:45:43 custom_logger log 78 - 500: An unexpected error occurred
+ERROR, 2024-04-09 22:01:09 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:01:09 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:05:06 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:05:06 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:05:37 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:05:37 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:05:49 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:05:49 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:08:23 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:08:23 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:11:56 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:11:56 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:12:50 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:12:50 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:13:23 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:13:23 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:15:03 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:15:03 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:17:17 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:17:17 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:17:45 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:17:45 custom_logger log 78 - 'AsyncSession' object is not callable
+ERROR, 2024-04-09 22:23:13 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-09 22:23:13 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-09 22:23:28 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-09 22:23:28 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-09 22:44:03 custom_logger log 78 - bcrypt: no backends available -- recommend you install one (e.g. 'pip install bcrypt')
+ERROR, 2024-04-09 22:44:03 custom_logger log 78 - bcrypt: no backends available -- recommend you install one (e.g. 'pip install bcrypt')
+ERROR, 2024-04-09 22:48:54 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-09 22:48:54 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 00:35:10 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 00:35:10 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:29:38 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:29:38 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:31:36 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:31:36 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:35:14 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:35:14 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:36:06 custom_logger log 78 - 4 validation errors:
+  {'type': 'missing', 'loc': ('response', 'id'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'username'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'email'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'role'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+
+ERROR, 2024-04-10 01:36:06 custom_logger log 78 - 4 validation errors:
+  {'type': 'missing', 'loc': ('response', 'id'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'username'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'email'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'role'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+
+ERROR, 2024-04-10 01:36:27 custom_logger log 78 - 4 validation errors:
+  {'type': 'missing', 'loc': ('response', 'id'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'username'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'email'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'role'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+
+ERROR, 2024-04-10 01:36:27 custom_logger log 78 - 4 validation errors:
+  {'type': 'missing', 'loc': ('response', 'id'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'username'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'email'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'role'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+
+ERROR, 2024-04-10 01:39:46 custom_logger log 78 - 4 validation errors:
+  {'type': 'missing', 'loc': ('response', 'id'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'username'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'email'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'role'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+
+ERROR, 2024-04-10 01:39:46 custom_logger log 78 - 4 validation errors:
+  {'type': 'missing', 'loc': ('response', 'id'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'username'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'email'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'role'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+
+ERROR, 2024-04-10 01:41:16 custom_logger log 78 - 4 validation errors:
+  {'type': 'missing', 'loc': ('response', 'id'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'username'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'email'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'role'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+
+ERROR, 2024-04-10 01:41:16 custom_logger log 78 - 4 validation errors:
+  {'type': 'missing', 'loc': ('response', 'id'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'username'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'email'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'role'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+
+ERROR, 2024-04-10 01:45:12 custom_logger log 78 - 4 validation errors:
+  {'type': 'missing', 'loc': ('response', 'id'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'username'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'email'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'role'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+
+ERROR, 2024-04-10 01:45:12 custom_logger log 78 - 4 validation errors:
+  {'type': 'missing', 'loc': ('response', 'id'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'username'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'email'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+  {'type': 'missing', 'loc': ('response', 'role'), 'msg': 'Field required', 'input': HTTPException(status_code=409, detail='Account already exists'), 'url': 'https://errors.pydantic.dev/2.6/v/missing'}
+
+ERROR, 2024-04-10 01:45:49 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:45:49 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:47:22 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:47:22 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:51:22 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:51:22 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:52:04 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:52:04 custom_logger log 78 - 409: Account already exists
+ERROR, 2024-04-10 01:58:38 custom_logger log 78 - 401: Not authenticated
+ERROR, 2024-04-10 01:58:38 custom_logger log 78 - 401: Not authenticated
